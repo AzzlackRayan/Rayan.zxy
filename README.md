@@ -24,7 +24,7 @@ I'm always working on new projects and improving my skills. 🚀
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzzlackRayan&show_icons=true&theme=dark)
+Soon
 
 ## 📫 Contact
 
